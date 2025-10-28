@@ -50,11 +50,6 @@ Digital-Clock/
 
     📥 Installation
 
-Clone the repository
-
-git clone https://github.com/yourusername/Digital-Clock.git
-
-
 Open the folder in your preferred code editor
 
 Run index.html in your browser
