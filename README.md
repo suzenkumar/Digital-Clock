@@ -73,5 +73,5 @@ Suzen Kumar Mohanty
 🚀 Frontend Developer | Tech Enthusiast
 🌐 Portfolio
 
-📧 suzenkmohanty@example.com
+📧 suzenkmohanty@gmail.com
 
